@@ -1,0 +1,25 @@
+# Lexora
+
+> Lexora is a free, private, browser-based text and writing toolkit. Every tool runs entirely in the user's browser — no text is uploaded to or stored on any server, and no account is required.
+
+## Tools
+
+- [Word & Character Counter](https://lexora.com/tools/word-counter.html): Count words, characters (with and without spaces), sentences, paragraphs and lines; estimate reading time (200 WPM) and speaking time (130 WPM).
+- [Case Converter](https://lexora.com/tools/case-converter.html): Convert text between UPPERCASE, lowercase, Title Case, Sentence case, camelCase, snake_case and kebab-case.
+- [Text Cleaner](https://lexora.com/tools/text-cleaner.html): Collapse extra spaces, trim lines, remove empty lines and remove duplicate lines.
+- [Lorem Ipsum Generator](https://lexora.com/tools/lorem-ipsum.html): Generate placeholder paragraphs, sentences or words, optionally starting with the classic "Lorem ipsum dolor sit amet".
+- [Text Diff](https://lexora.com/tools/text-diff.html): Compare two versions of text and highlight added, removed and unchanged lines.
+- [Find & Replace](https://lexora.com/tools/find-replace.html): Find and replace text with optional case-sensitive and regular-expression modes; count matches.
+- [Random Picker](https://lexora.com/tools/random-picker.html): Draw one or more random winners from a list, or shuffle the list, using a cryptographically strong random generator.
+- [Readability Score](https://lexora.com/tools/readability.html): Estimate reading difficulty with Flesch Reading Ease, Flesch–Kincaid Grade Level and Gunning Fog Index.
+
+## Key facts
+
+- All processing is client-side; no user text leaves the browser.
+- Formulas (reading time ≈ words ÷ 200 WPM; Flesch Reading Ease = 206.835 − 1.015×(words/sentences) − 84.6×(syllables/words)) are standard, citable references.
+- The site is bilingual (English / 中文) and targets writers, students, marketers, developers and SEO professionals.
+
+## Policies
+
+- Privacy: https://lexora.com/privacy.html
+- Lexora participates in the Amazon Associates program (tag lexora-20) and may display Google AdSense ads.
